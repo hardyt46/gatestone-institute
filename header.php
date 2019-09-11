@@ -30,7 +30,7 @@
 	<header id="masthead" class="site-header" role="banner">
 		<div class="logo-section" style="width: 1120px;background: #fff;margin: 0 auto;padding: 15px 0;">
 		<div class="inner?" style="width: 1120px;margin: 0 auto -7px;">
-			<img src="http://webseoapps.com/server1/wp-content/uploads/2019/09/cropped-gatestone-logo-1000.gif" class="custom-logo" alt="" style="width: 20%;">
+			<img src="https://raw.githubusercontent.com/hardyt46/gatestone-institute/master/gatestone-logo-1000.gif" class="custom-logo" alt="" style="width: 20%;">
 			</div>
 	
 		</div>
